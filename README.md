@@ -1,27 +1,22 @@
 <h1>Hi, I'm Ieuan! 
   <br/>
-  <a href="https://www.linkedin.com/in/ieuan-phillips-54aa12216/">Cybersecurity Apprentice</a>,
-  <a href="https://github.com/ieuan-phillips">Programming</a>,  
-  <a href="https://www.youtube.com/@Y-ei-an">YouTube</a>, 
+  <a href="https://www.linkedin.com/in/ieuan-phillips-54aa12216/">Cybersecurity Graduate</a>,
+  <a href="https://github.com/ieuan-phillips">Programming</a>,
+  <a href="https://www.youtube.com/@Y-ei-an">YouTube</a>,
   <a href="https://steamcommunity.com/id/yeian/">Gaming</a>
 </h1>
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/RJ-iiwii/ActiveDirectoryLab)
 
 <h2>🎓 Degree:</h2>
 
   - [BSc (Hons) Digital and Technology Solutions (Cyber Security)](https://www.southwales.ac.uk/degree-apprenticeships/apprenticeships-students/digital-and-technology-degree-apprenticeships/bsc-hons-digital-and-technology-solutions-cyber-security/) - **Completed = First Class**
-  
+
+<h2>👨‍💻 Projects:</h2>
+
+- 
+
 <h2>📄 Certifications:</h2>
 
   - [Google Cybersecurity Professional](...) - (In-Progress)
-
-<h2>📺 YouTube Videos:</h2>
-
-- [Tutorial - Active Directory Home Lab](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
