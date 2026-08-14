@@ -1,7 +1,7 @@
-<h1>Hi, I'm Yeian! 
+<h1>Hi, I'm Ieuan! 
   <br/>
   <a href="https://www.linkedin.com/in/ieuan-phillips-54aa12216/">Cybersecurity Apprentice</a>,
-  <a href="https://github.com/Y-ei-an">Programming</a>,  
+  <a href="https://github.com/ieuan-phillips">Programming</a>,  
   <a href="https://www.youtube.com/@Y-ei-an">YouTube</a>, 
   <a href="https://steamcommunity.com/id/yeian/">Gaming</a>
 </h1>
@@ -13,7 +13,7 @@
 
 <h2>🎓 Degree:</h2>
 
-  - [BSc (Hons) Digital and Technology Solutions (Cyber Security)](https://www.southwales.ac.uk/degree-apprenticeships/apprenticeships-students/digital-and-technology-degree-apprenticeships/bsc-hons-digital-and-technology-solutions-cyber-security/) - (In-Progress = 24/56 Months)
+  - [BSc (Hons) Digital and Technology Solutions (Cyber Security)](https://www.southwales.ac.uk/degree-apprenticeships/apprenticeships-students/digital-and-technology-degree-apprenticeships/bsc-hons-digital-and-technology-solutions-cyber-security/) - **Completed = First Class**
   
 <h2>📄 Certifications:</h2>
 
