@@ -14,7 +14,7 @@ My university capstone project: a local-first phishing simulation analytics appl
 
 ### [C Bullet Hell](https://github.com/ieuan-phillips/c-bullet-hell) — C, raylib, CMake
 
-My first game programming project, initially built by following a tutorial. After completing it, I debugged projectile piercing and collision handling, fixed disappearing enemies, and adjusted progression limits. The project is clearly labelled as tutorial-guided.
+My first game programming project, initially guided by a tutorial. After completing it, I debugged projectile piercing and collision handling, fixed disappearing enemies, and adjusted progression limits.
 
 ### [C++ Learning](https://github.com/ieuan-phillips/cpp-learning) — C++
 
