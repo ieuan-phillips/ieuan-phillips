@@ -1,31 +1,31 @@
-<h1>Hi, I'm Ieuan! 
-  <br/>
-  <a href="https://www.linkedin.com/in/ieuan-phillips-54aa12216/">Cybersecurity Graduate</a>,
-  <a href="https://github.com/ieuan-phillips">Programming</a>,
-  <a href="https://www.youtube.com/@Y-ei-an">YouTube</a>,
-  <a href="https://steamcommunity.com/id/yeian/">Gaming</a>
-</h1>
+# Hi, I'm Ieuan
 
-<h2>🎓 Degree:</h2>
+**First-class Cyber Security graduate | Aspiring game programmer**
 
-  - [BSc (Hons) Digital and Technology Solutions (Cyber Security)](https://www.southwales.ac.uk/degree-apprenticeships/apprenticeships-students/digital-and-technology-degree-apprenticeships/bsc-hons-digital-and-technology-solutions-cyber-security/) - **Completed = First Class**
+I graduated with First-Class Honours in **BSc (Hons) Digital and Technology Solutions (Cyber Security)** from the University of South Wales, completed through a degree apprenticeship.
 
-<h2>👨‍💻 Projects:</h2>
+I'm now working towards a career in **game programming**. My focus is on building strong C++ and computer science fundamentals, writing small programs, and learning by building and debugging real projects.
 
-- 
+## Projects
 
-<h2>📄 Certifications:</h2>
+### [PhishViz](https://github.com/ieuan-phillips/phishviz) — Python, Django
 
-  - [Google Cybersecurity Professional](...) - (In-Progress)
+My university capstone project: a local-first phishing simulation analytics application. It processes CSV exports, calculates behavioural metrics, generates charts and PDF reports, and supports run verification and reproduction. The repository includes fictional sample data for testing.
 
-<h2> 🤳 Connect with me:</h2>
+### [C Bullet Hell](https://github.com/ieuan-phillips/c-bullet-hell) — C, raylib, CMake
 
-[<img align="left" alt="RJ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RJ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RJ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RJ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+My first game programming project, initially built by following a tutorial. After completing it, I debugged projectile piercing and collision handling, fixed disappearing enemies, and adjusted progression limits. The project is clearly labelled as tutorial-guided.
 
-[twitter]: https://twitter.com/rj_iiwii
-[youtube]: https://www.youtube.com/@iiwii_/
-[instagram]: https://www.instagram.com/rj_iiwii/
-[linkedin]: https://www.linkedin.com/in/ieuan-phillips-54aa12216/
+### [C++ Learning](https://github.com/ieuan-phillips/cpp-learning) — C++
+
+A record of my independent C++ study, with drills and exercise solutions from *Programming: Principles and Practice Using C++ (3rd Edition)* by Bjarne Stroustrup, alongside [LearnCpp](https://www.learncpp.com/). This is a learning log, not a collection of finished applications.
+
+## Current focus
+
+- Working through C++ fundamentals and problem-solving exercises.
+- Developing my understanding of game loops, movement, collision detection and game state.
+- Building towards small, increasingly independent game programming projects.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ieuan-phillips-54aa12216/)
