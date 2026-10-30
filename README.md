@@ -25,6 +25,7 @@ A record of my independent C++ study, with drills and exercise solutions from *P
 - Working through C++ fundamentals and problem-solving exercises.
 - Developing my understanding of game loops, movement, collision detection and game state.
 - Building towards small, increasingly independent game programming projects.
+- Developing proficiency in Linux, GCC, Neovim (LazyVim), tmux and terminal-based Git workflows alongside my C++ studies.
 
 ## Connect
 
